@@ -1,0 +1,81 @@
+Resumo dos principais fatos para estudo.
+
+Não podemos iniciar a história do .NET sem mencionar a gigante Microsoft. Lets Go!
+
+A Microsoft iniciou nos anos 70 criando linguagens de programação. Uma das primeiras linguagens foi o Basic.
+
+Nos anos 80, surge o DOS, que foi utilizado como o OS padrão para computadores IBM.
+Nos próximos anos a Microsoft atua fortemente na criação do OS Windows.
+
+No fim dos anos 90, a Microsoft tentou consolidar as ferramentas de desenvolvimento (IDEs e runtimes) com o Visual Studio 97:
+* Visual Basic 5;
+* Visual Fox Pro 5
+* C++ 5;
+* J++ (Java adaptado ao Windows)
+
+Lançamento do Visual Studio 6, em 1998:
+* Visual Basic 6;
+* Visual FoxPro 6;
+* C++ 6;
+* J++ 6.
+
+Em 1999, Scott Gthrie criou uma ferramenta web com Java, e a chamou de ASP+ (depois chamou ASP Next e depois ASPX).
+Jason Zander ajudou na criação de um Common Runtime para VB e C++ (CLR).
+
+O Java ia bem! Então a Sun Microsystems fez um acordo para a Microsoft não mexer mais com Java.
+Com isso, Anders Hejlsberg começou a trabalhar na criação do C#.
+
+Em 2000, a Microsoft lança o novo ambiente de desenvolvimento .NET 1.0 - inicialmente chamado de Next Generation Windows Services (NGWS).
+
+Em 2001, Miguel de Icaza começa a trabalhar no projeto Mono, uma reimplementação back box do .NET, open source e multiplataforma.
+
+Em 2002, foi lançado o Visual Studio .NET com C# 1.0, conhecido como 22 linguagens em uma plataforma:
+* C#.NET;
+* C++.NET;
+* VB.NET;
+* J#.NET;
+* Entre outras.
+
+Em 2003, ocorre o lançamento do .NET 1.1 com o Visual Studio 2003. Pra essa versão, ocorreram diversas melhorias na CLR para lançar a CLR 2.
+
+Em 2005, foi lançado o .NET 2.0 com C$ 2.0 no Visual Studio 2005.
+A Microsoft começa a atingir seu objetivo inicial, inclusive evoluindo na web.
+
+Em 2007 e 2008, houve o lançamento do .NET 3.5 com C# 3.0 no Visual Studio 2008, com Silverlight, WPF e WCF.
+Microsoft contrata um time de pessoas que tinham uma pegada open source e começaram a atuar na criação do ASP.NET MVC.
+Começa a se falar em Windows Azure.
+
+Em 2010, cocorre o lançamento do .NET 4.0 com C# 4.0 no Visual Studio 2010, também com F#.
+A Microsoft lança comercialmente Windows Azure.
+Anders Hejlsberg começa a trabalhar no Typescript.
+
+Em 2011, Miguel de Icaza iniciou o Xamarin, basicamente ele desenvolvia em C# aplicativos que rodam em Android e iOS.
+
+Em 2012, ocorre o lançamento do .NET 4.5 com o C# 5.0 no Visual Studio 2012, e o lançamento do Typescript.
+
+Em 2013, ocorre o lançamento do .NET 4.51 no Visual Studio 2013.
+Rosylin inicia o projeto para um novo compilador para C# e VB.NET.
+A Microsoft continua atuando mais na frente JS e aumenta também a incorporação de ferramentas open source ao ambiente.
+Já temos aqui o ASP.NET mais consolidado com MVC, Web API e SignalR. Porém, tudo ainda é muito Windows.
+
+Em 2014, Satya Nadella se torna CEO da Microsoft e direciona o foco da empresa para cloud.
+Criação do .NET Foundation para gestão de projetos open source.
+Windows Azure passa a se chamar Microsoft Azure.
+É introduzido o conceito do ASO.NET vNext, posteriormente chamado de ASP.NET Core.
+
+Em 2015, foi lançado o .NET 4.6 com C# 6.0 no Visual Studio 2015 e o Lançamento do Visual Studio Code.
+
+Em 2016, a Microsoft adquiriu a Xamarin e adiciona o produto como parte de sua stack .NET e projetos open source.
+Lançamento do Vistual Studio for Mac.
+Lançamento do .NET Core 1.0 - totalmente novo, open source e multiplataforma!
+
+Em 2017, ocorre o lançamento do .NET Framework 4.7 com C# 7.0 no Visual Studio 2017.(Somente Windows)
+Lançamento do .NET Core 2.0 com C# 7.0 no Visual Studio 2017, Visual Studio Code ou Visual Studio for Mac 2017. (multiplataforma)
+
+Em 2019, ocorre o lançamento do .NET FRamework 4.8 com C# 7.3 no Visual Studio 2019.
+Lançamento do .NET Core 3.0 com C# 8.0 no Visual Studio 2019, Visual Studio Code ou Visual Studio for Mac 2019.
+
+Em 2020, o .NET Framework ficou pronto na versão 4.8!
+E deixa de ser evoluído - junto com ele WCF e ASP.NET Webforms.
+
+Atualmente temos o .NET 5.
