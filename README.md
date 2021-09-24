@@ -1,2 +1,2 @@
-# Dio-DesafioGit-Everis
-Desafio de projeto sobre o Git/GitHub
+# Desafio de projeto Git/GitHub da Dio.
+Repositório criado para o desafio.
